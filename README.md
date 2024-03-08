@@ -1,4 +1,4 @@
-## Open Source Libraries - thank allah for them
+## Open Source Libraries
 
 
 	1) ultralytics/yolov5: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite (github.com)
